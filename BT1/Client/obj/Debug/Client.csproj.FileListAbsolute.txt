@@ -1,0 +1,38 @@
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example\Client\bin\Debug\Client.exe.config
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example\Client\bin\Debug\Client.exe
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example\Client\bin\Debug\Client.pdb
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example\Client\obj\Debug\Client.Form1.resources
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example\Client\obj\Debug\Client.Properties.Resources.resources
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example\Client\obj\Debug\Client.exe
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example\Client\obj\Debug\Client.pdb
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example-Error\Client\bin\Debug\Client.exe.config
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example-Error\Client\obj\Debug\Client.exe
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example-Error\Client\obj\Debug\Client.pdb
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example-Error\Client\bin\Debug\Client.exe
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example-Error\Client\bin\Debug\Client.pdb
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example-Error\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example-Error\Client\obj\Debug\Client.Form1.resources
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example-Error\Client\obj\Debug\Client.Properties.Resources.resources
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example-Error\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+F:\UIT folder\I.3\LTMCB\TH\Lab5\Lab5_Example-Error\Client\obj\Debug\Client.csprojAssemblyReference.cache
+F:\UIT folder\I.3\LTMCB\TH\Lab5\Lab5_Example-Error\Client\obj\Debug\Client.Form1.resources
+F:\UIT folder\I.3\LTMCB\TH\Lab5\Lab5_Example-Error\Client\obj\Debug\Client.Properties.Resources.resources
+F:\UIT folder\I.3\LTMCB\TH\Lab5\Lab5_Example-Error\Client\obj\Debug\Client.csproj.GenerateResource.cache
+F:\UIT folder\I.3\LTMCB\TH\Lab5\Lab5_Example-Error\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\UIT folder\I.3\LTMCB\TH\Lab5\Lab5_Example-Error\Client\obj\Debug\Client.exe
+F:\UIT folder\I.3\LTMCB\TH\Lab5\Lab5_Example-Error\Client\obj\Debug\Client.pdb
+F:\UIT folder\I.3\LTMCB\TH\Lab5\Lab5_Example-Error\Client\bin\Debug\Client.exe.config
+F:\UIT folder\I.3\LTMCB\TH\Lab5\Lab5_Example-Error\Client\bin\Debug\Client.exe
+F:\UIT folder\I.3\LTMCB\TH\Lab5\Lab5_Example-Error\Client\bin\Debug\Client.pdb
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT1\Client\bin\Debug\Client.exe.config
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT1\Client\bin\Debug\Client.exe
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT1\Client\bin\Debug\Client.pdb
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT1\Client\obj\Debug\Client.csprojAssemblyReference.cache
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT1\Client\obj\Debug\Client.Client.resources
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT1\Client\obj\Debug\Client.Properties.Resources.resources
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT1\Client\obj\Debug\Client.csproj.GenerateResource.cache
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT1\Client\obj\Debug\Client.exe
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT1\Client\obj\Debug\Client.pdb

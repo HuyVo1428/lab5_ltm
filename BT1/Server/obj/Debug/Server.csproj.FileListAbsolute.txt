@@ -1,0 +1,48 @@
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example\Server\bin\Debug\Server.exe.config
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example\Server\bin\Debug\Server.exe
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example\Server\bin\Debug\Server.pdb
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example\Server\obj\Debug\Server.Form1.resources
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example\Server\obj\Debug\Server.Properties.Resources.resources
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example\Server\obj\Debug\Server.exe
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example\Server\obj\Debug\Server.pdb
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example-Error\Server\bin\Debug\Server.exe.config
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example-Error\Server\obj\Debug\Server.exe
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example-Error\Server\obj\Debug\Server.pdb
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example-Error\Server\bin\Debug\Server.exe
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example-Error\Server\bin\Debug\Server.pdb
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example-Error\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example-Error\Server\obj\Debug\Server.Form1.resources
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example-Error\Server\obj\Debug\Server.Properties.Resources.resources
+E:\UIT\TEACHING\NT106.J11\Lab Lap trinh mang can ban\Lab5\Lab5_Example-Error\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+F:\UIT folder\I.3\LTMCB\TH\Lab5\Lab5_Example-Error\Server\bin\Debug\Server.exe.config
+F:\UIT folder\I.3\LTMCB\TH\Lab5\Lab5_Example-Error\Server\bin\Debug\Server.exe
+F:\UIT folder\I.3\LTMCB\TH\Lab5\Lab5_Example-Error\Server\bin\Debug\Server.pdb
+F:\UIT folder\I.3\LTMCB\TH\Lab5\Lab5_Example-Error\Server\obj\Debug\Server.csprojAssemblyReference.cache
+F:\UIT folder\I.3\LTMCB\TH\Lab5\Lab5_Example-Error\Server\obj\Debug\Server.Form1.resources
+F:\UIT folder\I.3\LTMCB\TH\Lab5\Lab5_Example-Error\Server\obj\Debug\Server.Properties.Resources.resources
+F:\UIT folder\I.3\LTMCB\TH\Lab5\Lab5_Example-Error\Server\obj\Debug\Server.csproj.GenerateResource.cache
+F:\UIT folder\I.3\LTMCB\TH\Lab5\Lab5_Example-Error\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\UIT folder\I.3\LTMCB\TH\Lab5\Lab5_Example-Error\Server\obj\Debug\Server.exe
+F:\UIT folder\I.3\LTMCB\TH\Lab5\Lab5_Example-Error\Server\obj\Debug\Server.pdb
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT2\Server\bin\Debug\Server.exe.config
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT2\Server\bin\Debug\Server.exe
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT2\Server\bin\Debug\Server.pdb
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT2\Server\obj\Debug\Server.csprojAssemblyReference.cache
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT2\Server\obj\Debug\Server.Form1.resources
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT2\Server\obj\Debug\Server.Properties.Resources.resources
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT2\Server\obj\Debug\Server.csproj.GenerateResource.cache
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT2\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT2\Server\obj\Debug\Server.exe
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT2\Server\obj\Debug\Server.pdb
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT1\Server\bin\Debug\Server.exe.config
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT1\Server\bin\Debug\Server.exe
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT1\Server\bin\Debug\Server.pdb
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT1\Server\obj\Debug\Server.csprojAssemblyReference.cache
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT1\Server\obj\Debug\Server.Properties.Resources.resources
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT1\Server\obj\Debug\Server.csproj.GenerateResource.cache
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT1\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT1\Server\obj\Debug\Server.exe
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT1\Server\obj\Debug\Server.pdb
+F:\UIT folder\I.3\LTMCB\TH\Lab5\BT1\Server\obj\Debug\Server.Server.resources
