@@ -54,7 +54,6 @@ namespace Client
 
             } while (sr.Peek() != -1);
             fs.Close();
-            MessageBox.Show("Completed!");
         }
 
         private int countLine(string path)
